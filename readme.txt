@@ -13,8 +13,6 @@ Easy auto-hide header bar.
 == Description ==
 Auto-hide the header bar. covers a theme within nav tag. *Effective with Theme with header tag.
 
-Usage
-
 == Installation ==
 
 This section describes how to install the plugin and get it working.
