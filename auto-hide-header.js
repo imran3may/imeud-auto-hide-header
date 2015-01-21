@@ -1,0 +1,1 @@
+!function(e){e(document).ready(function(){var n=0;e(window).scroll(function(){var o=e(this).scrollTop();o>n?e("header").fadeOut(200):e("header").fadeIn(200),n=o})})}(jQuery);
